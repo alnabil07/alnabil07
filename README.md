@@ -1,7 +1,10 @@
 # About Me:
 Currently in the final semester of the Bachelor’s program in Mechatronics Engineering at Rajshahi University of Engineering & Technology.
 
-## Contact me: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alnimra121@gmail.com) 
+## Contact me:
+alnimra121@gmail.com [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alnimra121@gmail.com) 
+nabil.2008042.ruet.mte@gmail.com [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nabil.2008042.ruet.mte@gmail.com) 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alnabil07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alnabil07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alnabil07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlNimra)
 
