@@ -86,7 +86,6 @@ I am passionate about:
 - alnimra121@gmail.com  
 - nabil.2008042.ruet.mte@gmail.com  
 
----
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alnabil07)
