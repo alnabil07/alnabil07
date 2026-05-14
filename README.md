@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Nabil%20|%20Mechatronics%20Engineer&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Mechatronics+Engineering+Student;Robotics+%7C+Embedded+Systems+%7C+AI;Building+Intelligent+Engineering+Systems;Man+Must+Suffer" />
 </p>
 
 <h1 align="center">Al Nimra Kabir</h1>
@@ -16,9 +16,6 @@ I am passionate about:
 - Machine Learning & Computer Vision  
 - Control Systems & Industrial Automation  
 
-I enjoy building real-world engineering solutions by integrating hardware, software, and intelligence.
-
----
 
 ## 📫 Contact Me
 📧 Email:  
@@ -49,6 +46,7 @@ I enjoy building real-world engineering solutions by integrating hardware, softw
 
 ### Design & Documentation
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=flat&logo=canva&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=flat&logo=latex&logoColor=white)
 
@@ -56,23 +54,8 @@ I enjoy building real-world engineering solutions by integrating hardware, softw
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
 
 ---
-
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alnabil07&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=alnabil07&theme=blue_navy&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnabil07&theme=blue_navy&hide_border=false&layout=compact" />
+  <img src="https://komarev.com/ghpvc/?username=alnabil07&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
-
-<p align="center">
-  Man Must Suffer
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=alnabil07&icon=0&color=1" />
-</p>
