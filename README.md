@@ -7,7 +7,7 @@
 
 ---
 
-## About Me
+## Summary
 I am currently in the final semester of my **Bachelor’s degree in Mechatronics Engineering** at **Rajshahi University of Engineering & Technology (RUET)**.
 
 I am passionate about:
@@ -16,6 +16,70 @@ I am passionate about:
 - Machine Learning & Computer Vision  
 - Control Systems & Industrial Automation  
 
+## Technical Skills
+
+<h3 align="left">Programming & Development</h3>
+
+<p align="left">
+
+<!-- Programming -->
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+</a>
+
+<!-- ML / AI -->
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+</a>
+
+<!-- Embedded / Robotics -->
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
+</a>
+
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+</a>
+
+<!-- Control / Simulation -->
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
+</a>
+
+
+
+### Design & Documentation
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=flat&logo=canva&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=flat&logo=latex&logoColor=white)
+
+### Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
+
+---
 
 ## 📫 Contact Me
 📧 Email:  
@@ -31,29 +95,22 @@ I am passionate about:
 [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/AlNimra)
 
 ---
+## 📊 GitHub Analytics
 
-## 💻 Technical Skills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alnabil07&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-### Programming & Development
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alnabil07&theme=tokyonight&hide_border=true" />
+</p>
 
-### Robotics & Embedded Systems
-![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=flat&logo=raspberry-pi&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=opencv&logoColor=white)
-
-### Design & Documentation
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=flat&logo=canva&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=flat&logo=latex&logoColor=white)
-
-### Tools & Version Control
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnabil07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alnabil07&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
